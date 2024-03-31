@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.divine
+{
+  width:400px;
+  height: 50px;
+  border-style: double;
+}
+.divine::placeholder
+{
+  text-align: center;
+  font-family:cursive;
+  font-size:30px;
+
+}
